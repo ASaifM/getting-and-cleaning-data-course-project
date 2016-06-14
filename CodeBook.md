@@ -15,13 +15,13 @@ their average or mean.
 
 ##Data Dictionary
 
-###Subject
+#####Subject
 The id of the subject for which the calculations are made.
 All the values listed for the subject are the mean values
 grouped by the subject's id and the activity that was carried
 out.
 
-###Activity
+#####Activity
 The column that indicates what the type of activity
 done by the subject possible values are:
 	WALKING
@@ -33,403 +33,403 @@ done by the subject possible values are:
 
 All of the following columns are averaged by Subject and Activity
 
-####TimeBodyAccMean-X
+##########TimeBodyAccMean-X
 The mean of the body acceleration signal with respect to time and
 the X-axis. The values were recorded from an Accelerometer.
 
-TimeBodyAccMean-Y
+#####TimeBodyAccMean-Y
 The mean of the body acceleration signal with respect to time and
 the Y-axis. The values were recorded from an Accelerometer.
 
-TimeBodyAccMean-Z
+#####TimeBodyAccMean-Z
 The mean of the body acceleration signal with respect to time and
 the Z-axis. The values were recorded from an Accelerometer.
 
-TimeBodyAccSTD-X
+#####TimeBodyAccSTD-X
 The standard deviation of the body acceleration signal with respect
 to time and the X-axis.The values were recorded from an Accelerometer.
 
-TimeBodyAccSTD-Y
+#####TimeBodyAccSTD-Y
 The standard deviation of the body acceleration signal with respect
 to time and the Y-axis. The values were recorded from an Accelerometer.
 
-TimeBodyAccSTD-Z
+#####TimeBodyAccSTD-Z
 The standard deviation of the body acceleration signal with respect
 to time and the X-axis. The values were recorded from an Accelerometer.
 
-TimeGravityAccMean-X
+#####TimeGravityAccMean-X
 The mean of the gravity acceleration signal with respect to time and
 the X-axis. The values were recorded from an Accelerometer.
 
-TimeGravityAccMean-Y
+#####TimeGravityAccMean-Y
 The mean of the gravity acceleration signal with respect to time and
 the Y-axis. The values were recorded from an Accelerometer.
 
-TimeGravityAccMean-Z
+#####TimeGravityAccMean-Z
 The mean of the gravity acceleration signal with respect to time and
 the Z-axis. The values were recorded from an Accelerometer.
 
-TimeGravityAccSTD-X
+#####TimeGravityAccSTD-X
 The standard deviation of the gravity acceleration signal with respect
 to time and the X-axis. The values were recorded from an Accelerometer.
 
-TimeGravityAccSTD-Y
+#####TimeGravityAccSTD-Y
 The standard deviation of the gravity acceleration signal with respect
 to time and the Y-axis. The values were recorded from an Accelerometer.
 
-TimeGravityAccSTD-Z
+#####TimeGravityAccSTD-Z
 The standard deviation of the gravity acceleration signal with respect
 to time and the Z-axis. The values were recorded from an Accelerometer.
 
-TimeBodyAccJerkMean-X
+#####TimeBodyAccJerkMean-X
 The mean value of the jerk signal with respect to time and the X-axis.
 It was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from an Accelerometer.
 
-TimeBodyAccJerkMean-Y
+#####TimeBodyAccJerkMean-Y
 The mean value of the jerk signal with respect to time and the Y-axis.
 It was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from an Accelerometer.
 
-TimeBodyAccJerkMean-Z
+#####TimeBodyAccJerkMean-Z
 The mean value of the jerk signal with respect to time and the Z-axis.
 It was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from an Accelerometer.
 
-TimeBodyAccJerkSTD-X
+#####TimeBodyAccJerkSTD-X
 The standard deviation of the jerk signal with respect to time and
 the X-axis. It was derived from the body linear acceleration and angular
 velocity with respect to time.The values were recorded from
 an Accelerometer.
 
-TimeBodyAccJerkSTD-Y
+#####TimeBodyAccJerkSTD-Y
 The standard deviation of the jerk signal with respect to time and
 the Y-axis. It was derived from the body linear acceleration and angular
 velocity with respect to time. The values were recorded from
 an Accelerometer.
 
-TimeBodyAccJerkSTD-Z
+#####TimeBodyAccJerkSTD-Z
 The standard deviation of the jerk signal with respect to time and
 the Y-axis. It was derived from the body linear acceleration and angular
 velocity with respect to time. The values were recorded from
 an Accelerometer.
 
-TimeBodyGyroMean-X
+#####TimeBodyGyroMean-X
 The mean of the body angular velocity signal with respect to time and
 the X-axis. The values were recorded from a Gyroscope.
 
-TimeBodyGyroMean-Y
+#####TimeBodyGyroMean-Y
 The mean of the body angular velocity signal with respect to time and
 the Y-axis. The values were recorded from a Gyroscope.
 
-TimeBodyGyroMean-Z
+#####TimeBodyGyroMean-Z
 The mean of the body angular velocity signal with respect to time and
 the Z-axis. The values were recorded from a Gyroscope.
 
-TimeBodyGyroSTD-X
+#####TimeBodyGyroSTD-X
 The standard deviation of the body angular velocity signal with
 respect to time and the X-axis.The values were recorded from
 a Gyroscope.
 
-TimeBodyGyroSTD-Y
+#####TimeBodyGyroSTD-Y
 The standard deviation of the body angular velocity signal with
 respect to time and the Y-axis.The values were recorded from
 a Gyroscope.
 
-TimeBodyGyroSTD-Z
+#####TimeBodyGyroSTD-Z
 The standard deviation of the body angular velocity signal with
 respect to time and the Z-axis.The values were recorded from
 a Gyroscope.
 
-TimeBodyGyroJerkMean-X
+#####TimeBodyGyroJerkMean-X
 The mean value of the jerk signal with respect to time and the X-axis.
 It was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from a Gryroscope.
 
-TimeBodyGyroJerkMean-Y
+#####TimeBodyGyroJerkMean-Y
 The mean value of the jerk signal with respect to time and the Y-axis.
 It was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from a Gryroscope.
 
-TimeBodyGyroJerkMean-Z
+#####TimeBodyGyroJerkMean-Z
 The mean value of the jerk signal with respect to time and the Z-axis.
 It was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from a Gryroscope.
 
-TimeBodyGyroJerkSTD-X
+#####TimeBodyGyroJerkSTD-X
 The standard deviation of the jerk signal with respect to time and
 the X-axis. It was derived from the body linear acceleration and angular
 velocity with respect to time.The values were recorded from
 a Gyroscope.
 
-TimeBodyGyroJerkSTD-Y
+#####TimeBodyGyroJerkSTD-Y
 The standard deviation of the jerk signal with respect to time and
 the Y-axis. It was derived from the body linear acceleration and angular
 velocity with respect to time.The values were recorded from
 a Gyroscope.
 
-TimeBodyGyroJerkSTD-Z
+#####TimeBodyGyroJerkSTD-Z
 The standard deviation of the jerk signal with respect to time and
 the Z-axis. It was derived from the body linear acceleration and angular
 velocity with respect to time.The values were recorded from
 a Gyroscope.
 
-TimeBodyAccMagMean
+#####TimeBodyAccMagMean
 The mean of the magnitude of the body acceleration signal with respect
 to time. The values were recorded from an Accelerometer.
 
-TimeBodyAccMagSTD
+#####TimeBodyAccMagSTD
 The standard deviation of the magnitude of the body acceleration signal
 with respect to time. The values were recorded from an Accelerometer.
 
-TimeGravityAccMagMean
+#####TimeGravityAccMagMean
 The mean of the gravity acceleration signal's magnitude with respect
 to time. The values were recorded from an Accelerometer.
 
-TimeGravityAccMagSTD
+#####TimeGravityAccMagSTD
 The standard deviation of the gravity acceleration signal's magnitude
 with respect to time. The values were recorded from an Accelerometer.
 
-TimeBodyAccJerkMagMean
+#####TimeBodyAccJerkMagMean
 The mean of the jerk signal's magnitude with respect to time. Jerk was
 derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from an Accelerometer.
 
-TimeBodyAccJerkMagSTD
+#####TimeBodyAccJerkMagSTD
 The standard deviation of the jerk signal's magnitude with respect to
 time. Jerk was derived from the body linear acceleration and angular
 velocity with respect to time. The values were recorded from
 an Accelerometer.
 
-TimeBodyGyroMagMean
+#####TimeBodyGyroMagMean
 The mean of the magnitude of the body angular velocity signal with
 respect to time. The values were recorded from a Gyroscope.
 
-TimeBodyGyroMagSTD
+#####TimeBodyGyroMagSTD
 The standard deviation of the magnitude of the body angular velocity
 signal with respect to time. The values were recorded from a Gyroscope.
 
-TimeBodyGyroJerkMagMean
+#####TimeBodyGyroJerkMagMean
 The mean of the jerk signal's magnitude with respect to time. Jerk was
 derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from a Gyroscope.
 
-TimeBodyGyroJerkMagSTD
+#####TimeBodyGyroJerkMagSTD
 The standard deviation of the jerk signal's magnitude with respect
 to time. Jerk was derived from the body linear acceleration and
 angular velocity with respect to time. The values were recorded from
 a Gyroscope.
 
-FreqBodyAccMean-X
+#####FreqBodyAccMean-X
 The mean of the body acceleration signal with respect to frequency and
 the X-axis. Using Fast Fourier Transform (FFT), time signals were
 converted to frequency signals. The values were recorded from
 an Accelerometer.
 
-FreqBodyAccMean-Y
+#####FreqBodyAccMean-Y
 The mean of the body acceleration signal with respect to frequency and
 the Y-axis. Using Fast Fourier Transform (FFT), time signals were
 converted to frequency signals. The values were recorded from
 an Accelerometer.
 
-FreqBodyAccMean-Z
+#####FreqBodyAccMean-Z
 The mean of the body acceleration signal with respect to frequency and
 the Z-axis. Using Fast Fourier Transform (FFT), time signals were
 converted to frequency signals. The values were recorded from
 an Accelerometer.
 
-FreqBodyAccSTD-X
+#####FreqBodyAccSTD-X
 The standard deviation of the body acceleration signal with respect to frequency and
 the X-axis. Using Fast Fourier Transform (FFT), time signals were
 converted to frequency signals. The values were recorded from
 an Accelerometer.
 
-FreqBodyAccSTD-Y
+#####FreqBodyAccSTD-Y
 The standard deviation of the body acceleration signal with respect to frequency and
 the Y-axis. Using Fast Fourier Transform (FFT), time signals were
 converted to frequency signals. The values were recorded from
 an Accelerometer.
 
-FreqBodyAccSTD-Z
+#####FreqBodyAccSTD-Z
 The standard deviation of the body acceleration signal with respect to frequency and
 the Z-axis. Using Fast Fourier Transform (FFT), time signals were
 converted to frequency signals. The values were recorded from
 an Accelerometer.
 
-FreqBodyAccMeanFreq-X
+#####FreqBodyAccMeanFreq-X
 Given the body acceleration with respect to frequency, this is the 
 weighted average of the frequency components with respect to the X-axis.
 
 
-FreqBodyAccMeanFreq-Y
+#####FreqBodyAccMeanFreq-Y
 Given the body acceleration with respect to frequency, this is the 
 weighted average of the frequency components with respect to the Y-axis.
 
-FreqBodyAccMeanFreq-Z
+#####FreqBodyAccMeanFreq-Z
 Given the body acceleration with respect to frequency, this is the 
 weighted average of the frequency components with respect to the Z-axis.
 
-FreqBodyAccJerkMean-X
+#####FreqBodyAccJerkMean-X
 The mean value of the jerk signal with respect to frequency and the X-axis.
 Recall that the signal with respect to frequency was obtained using FFT.
 Jerk was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from an Accelerometer.
 
-FreqBodyAccJerkMean-Y
+#####FreqBodyAccJerkMean-Y
 The mean value of the jerk signal with respect to frequency and the Y-axis.
 Recall that the signal with respect to frequency was obtained using FFT.
 Jerk was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from an Accelerometer.
 
-FreqBodyAccJerkMean-Z
+#####FreqBodyAccJerkMean-Z
 The mean value of the jerk signal with respect to frequency and the Z-axis.
 Recall that the signal with respect to frequency was obtained using FFT.
 Jerk was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from an Accelerometer.
 
-FreqBodyAccJerkSTD-X
+#####FreqBodyAccJerkSTD-X
 The standard deviation of the jerk signal with respect to frequency and
 the X-axis. Recall that the signal with respect to frequency was
 obtained using FFT. Jerk was derived from the body linear acceleration
 and angular velocity with respect to time. The values were recorded from
 an Accelerometer.
 
-FreqBodyAccJerkSTD-Y
+#####FreqBodyAccJerkSTD-Y
 The mean value of the jerk signal with respect to frequency and the Y-axis.
 Recall that the signal with respect to frequency was obtained using FFT.
 Jerk was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from an Accelerometer.
 
-FreqBodyAccJerkSTD-Z
+#####FreqBodyAccJerkSTD-Z
 The mean value of the jerk signal with respect to frequency and the Z-axis.
 Recall that the signal with respect to frequency was obtained using FFT.
 Jerk was derived from the body linear acceleration and angular velocity
 with respect to time. The values were recorded from an Accelerometer.
 
-FreqBodyAccJerkMeanFreq-X
+#####FreqBodyAccJerkMeanFreq-X
 Given the Jerk value with respect to body acceleration in the frequency
 domain, this is the weighted average of the Jerk components with
 respect to the X-axis.
 
-FreqBodyAccJerkMeanFreq-Y
+#####FreqBodyAccJerkMeanFreq-Y
 Given the Jerk value with respect to body acceleration in the frequency
 domain, this is the weighted average of the Jerk components with
 respect to the Y-axis.
 
-FreqBodyAccJerkMeanFreq-Z
+#####FreqBodyAccJerkMeanFreq-Z
 Given the Jerk value with respect to body acceleration in the frequency
 domain, this is the weighted average of the frequency components with
 respect to the Z-axis.
 
-FreqBodyGyroMean-X
+#####FreqBodyGyroMean-X
 The mean of the body angular velocity signal with respect to frequency
 and the X-axis. The values were recorded from a Gyroscope.
 
-FreqBodyGyroMean-Y
+#####FreqBodyGyroMean-Y
 The mean of the body angular velocity signal with respect to frequency
 and the Y-axis. The values were recorded from a Gyroscope.
 
-FreqBodyGyroMean-Z
+#####FreqBodyGyroMean-Z
 The mean of the body angular velocity signal with respect to frequency
 and the Z-axis. The values were recorded from a Gyroscope.
 
-FreqBodyGyroSTD-X
+#####FreqBodyGyroSTD-X
 The standard deviation of the body angular velocity signal with
 respect to frequency and the X-axis.The values were recorded from
 a Gyroscope and transformed to the frequency domain using FFT.
 
-FreqBodyGyroSTD-Y
+#####FreqBodyGyroSTD-Y
 The standard deviation of the body angular velocity signal with
 respect to frequency and the Y-axis.The values were recorded from
 a Gyroscope and transformed to the frequency domain using FFT.
 
-FreqBodyGyroSTD-Z
+#####FreqBodyGyroSTD-Z
 The standard deviation of the body angular velocity signal with
 respect to frequency and the Z-axis.The values were recorded from
 a Gyroscope and transformed to the frequency domain using FFT.
 
-FreqBodyGyroMeanFreq-X
+#####FreqBodyGyroMeanFreq-X
 Given the body angular velocity with respect to frequency, this is the 
 weighted average of the frequency components with respect to the X-axis.
 
-FreqBodyGyroMeanFreq-Y
+#####FreqBodyGyroMeanFreq-Y
 Given the body angular velocity with respect to frequency, this is the 
 weighted average of the frequency components with respect to the Y-axis.
 
-FreqBodyGyroMeanFreq-Z
+#####FreqBodyGyroMeanFreq-Z
 Given the body angular velocity with respect to frequency, this is the 
 weighted average of the frequency components with respect to the Z-axis.
 
-FreqBodyAccMagMean
+#####FreqBodyAccMagMean
 The mean of the magnitude of the body angular velocity signal with
-respect to Frequency. The values were recorded from an Accelerometer
+respect to frequency. The values were recorded from an Accelerometer
 and transformed to the frequency domain using FFT.
 
-FreqBodyAccMagSTD
+#####FreqBodyAccMagSTD
 The standard deviation of the magnitude of the body angular velocity
-signal with respect to Frequency. The values were recorded from
+signal with respect to frequency. The values were recorded from
 an Accelerometer and transformed to the frequency domain using FFT.
 
-FreqBodyAccMagMeanFreq
+#####FreqBodyAccMagMeanFreq
 Given the body acceleration with respect to frequency, this is the 
 weighted average of the frequency components with respect to the X-axis.
 
-FreqBodyBodyAccJerkMagMean
+#####FreqBodyBodyAccJerkMagMean
 It wasn't clear from the documentation what BodyBody would signify.
 The original variable was fBodyBodyAccJerkMag-mean().
 
-FreqBodyBodyAccJerkMagSTD
+#####FreqBodyBodyAccJerkMagSTD
 It wasn't clear from the documentation what BodyBody would signify.
 The original variable was fBodyBodyAccJerkMag-std().
 
-FreqBodyBodyAccJerkMagMeanFreq
+#####FreqBodyBodyAccJerkMagMeanFreq
 It wasn't clear from the documentation what BodyBody would signify.
 The original variable was fBodyBodyAccJerkMag-meanFreq().
 
-FreqBodyBodyGyroMagMean
+#####FreqBodyBodyGyroMagMean
 It wasn't clear from the documentation what BodyBody would signify.
 The original variable was fBodyBodyGyroMag-mean().
 
-FreqBodyBodyGyroMagSTD
+#####FreqBodyBodyGyroMagSTD
 It wasn't clear from the documentation what BodyBody would signify.
 The original variable was fBodyBodyGyroMag-std().
 
-FreqBodyBodyGyroMagMeanFreq
+#####FreqBodyBodyGyroMagMeanFreq
 It wasn't clear from the documentation what BodyBody would signify.
 The original variable was fBodyBodyGyroMag-meanFreq().
 
-FreqBodyBodyGyroJerkMagMean
+#####FreqBodyBodyGyroJerkMagMean
 It wasn't clear from the documentation what BodyBody would signify.
 The original variable was fBodyBodyGyroJerkMag-mean().
 
-FreqBodyBodyGyroJerkMagSTD
+#####FreqBodyBodyGyroJerkMagSTD
 It wasn't clear from the documentation what BodyBody would signify.
 The original variable was fBodyBodyGyroJerkMag-std().
 
-FreqBodyBodyGyroJerkMagMeanFreq
+#####FreqBodyBodyGyroJerkMagMeanFreq
 It wasn't clear from the documentation what BodyBody would signify.
 The original variable was fBodyBodyGyroJerkMag-meanFreq().
 
 All of the passed parameters to Angle are vectors 
 
-Angle(timeBodyAccMean,gravity)
+#####Angle(timeBodyAccMean,gravity)
 The angle between timeBodyAccMean and gravity.
 
 
-Angle(timeBodyAccJerkMean,gravityMean)
+#####Angle(timeBodyAccJerkMean,gravityMean)
 The angle between timeBodyAccJerkMean and gravityMean.
 
-Angle(timeBodyGyroMean,gravityMean)
+#####Angle(timeBodyGyroMean,gravityMean)
 The angle between timeBodyGyroMean and gravityMean.
 
-Angle(timeBodyGyroJerkMean,gravityMean)
+#####Angle(timeBodyGyroJerkMean,gravityMean)
 The angle between timeBodyGyroJerkMean and gravityMean. 
 
-Angle(X,gravityMean)
+#####Angle(X,gravityMean)
 The angle between X and gravityMean.
 
-Angle(Y,gravityMean)
+#####Angle(Y,gravityMean)
 The angle between Y and gravityMean.
 
-Angle(Z,gravityMean)
+#####Angle(Z,gravityMean)
 The angle between Z and gravityMean.
