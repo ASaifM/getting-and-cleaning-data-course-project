@@ -8,7 +8,7 @@ the script, open RStudio and navigate the script directory and type:
 
 source('run_analysis.R')
 
-A description of the variables used in the
+A description of the how the script runs and variables used in the
 cleaned up data can be found in CodeBook.md.
 
 The final cleaned-up data can be found in this repository as tidy.csv.
