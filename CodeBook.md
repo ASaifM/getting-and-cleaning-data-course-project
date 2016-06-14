@@ -24,16 +24,16 @@ out.
 #####Activity
 The column that indicates what the type of activity
 done by the subject possible values are:
-	*WALKING
-	*WALKING_UPSTAIRS
-	*WALKING_DOWNSTAIRS
-	*SITTING
-	*STANDING
-	*LAYING
+..*WALKING
+..*WALKING_UPSTAIRS
+..*WALKING_DOWNSTAIRS
+..*SITTING
+..*STANDING
+..*LAYING
 
 All of the following columns are averaged by Subject and Activity
 
-##########TimeBodyAccMean-X
+#####TimeBodyAccMean-X
 The mean of the body acceleration signal with respect to time and
 the X-axis. The values were recorded from an Accelerometer.
 
