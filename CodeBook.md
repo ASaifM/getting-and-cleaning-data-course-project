@@ -33,7 +33,7 @@ done by the subject possible values are:
 
 All of the following columns are averaged by Subject and Activity
 
-TimeBodyAccMean-X
+####TimeBodyAccMean-X
 The mean of the body acceleration signal with respect to time and
 the X-axis. The values were recorded from an Accelerometer.
 
