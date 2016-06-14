@@ -15,13 +15,13 @@ their average or mean.
 
 ##Data Dictionary
 
-Subject
+###Subject
 The id of the subject for which the calculations are made.
 All the values listed for the subject are the mean values
 grouped by the subject's id and the activity that was carried
 out.
 
-Activity
+###Activity
 The column that indicates what the type of activity
 done by the subject possible values are:
 	WALKING
