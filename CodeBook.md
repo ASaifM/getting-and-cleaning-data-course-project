@@ -24,12 +24,12 @@ out.
 #####Activity
 The column that indicates what the type of activity
 done by the subject possible values are:
-	WALKING
-	WALKING_UPSTAIRS
-	WALKING_DOWNSTAIRS
-	SITTING
-	STANDING
-	LAYING
+	*WALKING
+	*WALKING_UPSTAIRS
+	*WALKING_DOWNSTAIRS
+	*SITTING
+	*STANDING
+	*LAYING
 
 All of the following columns are averaged by Subject and Activity
 
